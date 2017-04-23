@@ -195,7 +195,7 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     dexOptions {
-        javaMaxHeapSize "4g"
+        javaMaxHeapSize "1g"
     }
 
     defaultConfig {
